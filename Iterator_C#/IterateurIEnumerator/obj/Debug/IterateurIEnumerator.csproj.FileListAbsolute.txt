@@ -1,0 +1,14 @@
+C:\Users\CONCAS Cyril\source\repos\IterateurBasique\IterateurIEnumerator\bin\Debug\IterateurIEnumerator.exe.config
+C:\Users\CONCAS Cyril\source\repos\IterateurBasique\IterateurIEnumerator\bin\Debug\IterateurIEnumerator.exe
+C:\Users\CONCAS Cyril\source\repos\IterateurBasique\IterateurIEnumerator\bin\Debug\IterateurIEnumerator.pdb
+C:\Users\CONCAS Cyril\source\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.csprojResolveAssemblyReference.cache
+C:\Users\CONCAS Cyril\source\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\CONCAS Cyril\source\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.exe
+C:\Users\CONCAS Cyril\source\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.pdb
+C:\Users\Utilisateur\Desktop\TransfertOrdi\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.exe
+C:\Users\Utilisateur\Desktop\TransfertOrdi\repos\IterateurBasique\IterateurIEnumerator\obj\Debug\IterateurIEnumerator.pdb
+C:\Users\Utilisateur\Desktop\TransfertOrdi\repos\IterateurBasique\IterateurIEnumerator\bin\Debug\IterateurIEnumerator.exe.config
+C:\Users\Utilisateur\Desktop\TransfertOrdi\repos\IterateurBasique\IterateurIEnumerator\bin\Debug\IterateurIEnumerator.exe
+C:\Users\Utilisateur\Desktop\TransfertOrdi\repos\IterateurBasique\IterateurIEnumerator\bin\Debug\IterateurIEnumerator.pdb

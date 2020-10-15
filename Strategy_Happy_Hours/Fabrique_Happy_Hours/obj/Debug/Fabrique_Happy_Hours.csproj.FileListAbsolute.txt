@@ -1,0 +1,6 @@
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Fabrique_Happy_Hours\bin\Debug\Fabrique_Happy_Hours.exe.config
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Fabrique_Happy_Hours\bin\Debug\Fabrique_Happy_Hours.exe
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Fabrique_Happy_Hours\bin\Debug\Fabrique_Happy_Hours.pdb
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Fabrique_Happy_Hours\obj\Debug\Fabrique_Happy_Hours.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Fabrique_Happy_Hours\obj\Debug\Fabrique_Happy_Hours.exe
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Fabrique_Happy_Hours\obj\Debug\Fabrique_Happy_Hours.pdb

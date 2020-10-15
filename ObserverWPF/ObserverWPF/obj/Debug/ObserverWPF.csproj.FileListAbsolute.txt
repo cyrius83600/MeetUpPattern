@@ -1,0 +1,44 @@
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.exe.config
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.exe
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.pdb
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csprojResolveAssemblyReference.cache
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\MainWindow.g.cs
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\App.g.cs
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF_MarkupCompile.cache
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF_MarkupCompile.lref
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\MainWindow.baml
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.g.resources
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.Properties.Resources.resources
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csproj.GenerateResource.cache
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csproj.CoreCompileInputs.cache
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.exe
+C:\Users\CONCAS Cyril\source\repos\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.pdb
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.exe.config
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.exe
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.pdb
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF_MarkupCompile.lref
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.g.resources
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.exe
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.exe.config
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\bin\Debug\ObserverWPF.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\App.g.cs
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF_MarkupCompile.cache
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF_MarkupCompile.lref
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\MainWindow.baml
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.g.resources
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.Properties.Resources.resources
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.csproj.GenerateResource.cache
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\ObserverWPF\ObserverWPF\obj\Debug\ObserverWPF.pdb

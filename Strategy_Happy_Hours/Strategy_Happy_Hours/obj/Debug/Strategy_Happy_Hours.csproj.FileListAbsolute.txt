@@ -1,0 +1,12 @@
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Strategy_Happy_Hours\bin\Debug\Strategy_Happy_Hours.exe.config
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Strategy_Happy_Hours\bin\Debug\Strategy_Happy_Hours.exe
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Strategy_Happy_Hours\bin\Debug\Strategy_Happy_Hours.pdb
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Strategy_Happy_Hours\obj\Debug\Strategy_Happy_Hours.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Strategy_Happy_Hours\obj\Debug\Strategy_Happy_Hours.exe
+C:\Users\Utilisateur\source\repos\Strategy_Happy_Hours\Strategy_Happy_Hours\obj\Debug\Strategy_Happy_Hours.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\Strategy_Happy_Hours\Strategy_Happy_Hours\bin\Debug\Strategy_Happy_Hours.exe.config
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\Strategy_Happy_Hours\Strategy_Happy_Hours\bin\Debug\Strategy_Happy_Hours.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\Strategy_Happy_Hours\Strategy_Happy_Hours\bin\Debug\Strategy_Happy_Hours.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\Strategy_Happy_Hours\Strategy_Happy_Hours\obj\Debug\Strategy_Happy_Hours.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\Strategy_Happy_Hours\Strategy_Happy_Hours\obj\Debug\Strategy_Happy_Hours.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\Strategy_Happy_Hours\Strategy_Happy_Hours\obj\Debug\Strategy_Happy_Hours.pdb

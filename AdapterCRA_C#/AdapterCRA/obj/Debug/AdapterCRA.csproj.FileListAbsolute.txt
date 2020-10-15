@@ -1,0 +1,12 @@
+C:\Users\Utilisateur\source\repos\AdapterCRA\AdapterCRA\bin\Debug\AdapterCRA.exe.config
+C:\Users\Utilisateur\source\repos\AdapterCRA\AdapterCRA\bin\Debug\AdapterCRA.exe
+C:\Users\Utilisateur\source\repos\AdapterCRA\AdapterCRA\bin\Debug\AdapterCRA.pdb
+C:\Users\Utilisateur\source\repos\AdapterCRA\AdapterCRA\obj\Debug\AdapterCRA.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\AdapterCRA\AdapterCRA\obj\Debug\AdapterCRA.exe
+C:\Users\Utilisateur\source\repos\AdapterCRA\AdapterCRA\obj\Debug\AdapterCRA.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\AdapterCRA\AdapterCRA\bin\Debug\AdapterCRA.exe.config
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\AdapterCRA\AdapterCRA\bin\Debug\AdapterCRA.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\AdapterCRA\AdapterCRA\bin\Debug\AdapterCRA.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\AdapterCRA\AdapterCRA\obj\Debug\AdapterCRA.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\AdapterCRA\AdapterCRA\obj\Debug\AdapterCRA.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\AdapterCRA\AdapterCRA\obj\Debug\AdapterCRA.pdb

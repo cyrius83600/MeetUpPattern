@@ -1,0 +1,20 @@
+C:\Users\CONCAS Cyril\source\repos\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.exe.config
+C:\Users\CONCAS Cyril\source\repos\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.exe
+C:\Users\CONCAS Cyril\source\repos\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.pdb
+C:\Users\CONCAS Cyril\source\repos\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.csprojResolveAssemblyReference.cache
+C:\Users\CONCAS Cyril\source\repos\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.csproj.CoreCompileInputs.cache
+C:\Users\CONCAS Cyril\source\repos\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.exe
+C:\Users\CONCAS Cyril\source\repos\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.pdb
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.exe.config
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.exe
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.pdb
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.exe
+C:\Users\Utilisateur\Desktop\TransfertOrdi\MeetUpC#\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.exe.config
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\MeteoObservable\MeteoObservable\bin\Debug\MeteoObservable.pdb
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.exe
+C:\Users\Utilisateur\Desktop\DesignPatternGit\Design-Pattern\MeteoObservable\MeteoObservable\obj\Debug\MeteoObservable.pdb

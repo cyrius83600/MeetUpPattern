@@ -1,0 +1,26 @@
+﻿<Window x:Class="ObserverWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ObserverWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Slider  HorizontalAlignment="Left" Margin="297,188,0,0" VerticalAlignment="Top" Height="29" Width="309" 
+                RenderTransformOrigin="0.5,0.5" 
+                Maximum="100" TickFrequency="5" Name="Slider">
+
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.287"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <TextBox Name="Texte" HorizontalAlignment="Left" Height="63" Margin="302,274,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="158"/>
+        <Label Name="LabelRouge" Content="Label" HorizontalAlignment="Left" Margin="422,72,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

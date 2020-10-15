@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\bin\Debug\ICommand.exe.config
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\bin\Debug\ICommand.exe
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\bin\Debug\ICommand.pdb
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\App.g.cs
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand_MarkupCompile.cache
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand_MarkupCompile.lref
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\MainWindow.baml
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand.g.resources
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand.exe
+C:\Users\Utilisateur\source\repos\ICommand\ICommand\obj\Debug\ICommand.pdb
